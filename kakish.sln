@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kakish", "kakish\kakish.csproj", "{4908558A-6914-4948-AB37-E256A48C1BE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kakich_test", "kakich_test\kakich_test.csproj", "{ADFF1524-6B93-40B5-93CC-3C47D6DD4C26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4908558A-6914-4948-AB37-E256A48C1BE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4908558A-6914-4948-AB37-E256A48C1BE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4908558A-6914-4948-AB37-E256A48C1BE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4908558A-6914-4948-AB37-E256A48C1BE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADFF1524-6B93-40B5-93CC-3C47D6DD4C26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADFF1524-6B93-40B5-93CC-3C47D6DD4C26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADFF1524-6B93-40B5-93CC-3C47D6DD4C26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADFF1524-6B93-40B5-93CC-3C47D6DD4C26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F09B05F-E487-4AF3-B478-DD1C9BF9F6D2}
+	EndGlobalSection
+EndGlobal
