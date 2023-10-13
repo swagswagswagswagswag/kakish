@@ -12,6 +12,8 @@
 **Как создавался данный проект**
 ![a](https://github.com/swagswagswagswagswag/kakish/blob/master/cs.jpg)
 # Использование программы 
+
+``` C#
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using kakish;
@@ -68,6 +70,7 @@ namespace kakich_test
         }
     }
 }</br>
+```
 1. Откройте Visual studio
 2. Нажмите в меню на вкладку тест
 3. Нажмите на кнопку "запуск всех тестов"</br>
